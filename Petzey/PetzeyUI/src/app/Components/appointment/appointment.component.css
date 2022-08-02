@@ -1,0 +1,18 @@
+h5{
+    color: rgb(176, 172, 172);
+}
+.cancel{
+    border-radius: 5px solid rgb(243, 241, 241);
+    background-color: white;
+}
+.book-appointment{
+    border-radius: 5px solid rgb(227, 225, 225);
+    background-color: red;
+
+}
+.wrapper{
+    height: 30px;
+}
+.container{
+    height: 100px;
+}
